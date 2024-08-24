@@ -9,3 +9,6 @@
 ## Mods - Wishlist
 - [Afraid Of The Dark (enforced personal lights + more)](https://mods.factorio.com/mod/AfraidOfTheDark?from=search)
 - [LTN - Logistic Train Network](https://mods.factorio.com/mod/LogisticTrainNetwork?from=search)
+
+## Mods - Dependencies
+- [Factorio Library](https://mods.factorio.com/mod/flib/dependencies?direction=in&sort=idx&filter=all)
